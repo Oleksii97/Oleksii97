@@ -46,7 +46,7 @@
 <h3 align="left">Languages and Tools for Manual testing:</h3>
 <p align="left">
   <!-- SkillIcons (для загальновідомих інструментів, що підтримуються SkillIcons) -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,selenium,figma" height="40" alt="Manual Testing Skills"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,selenium,figma,jmeter" height="40" alt="Manual Testing Skills"/>
   
   <!-- Додаткові іконки, які не підтримуються SkillIcons, але є в Simple Icons -->
   <img src="https://cdn.simpleicons.org/jira/0052CC" height="40" alt="Jira" title="Jira"/>
