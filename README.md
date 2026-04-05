@@ -24,26 +24,21 @@
 
 <h3 align="left">Languages and Tools for Penetration Testing:</h3>
 <p align="left">
-  <!-- SkillIcons (тільки ті, що існують) -->
-  <img src="https://skillicons.dev/icons?i=python,bash,git,github,vscode,docker,linux,phtp" height="40" />
-  
-  <!-- Custom Icons через SimpleIcons або прямі посилання -->
-  <img src="https://cdn.simpleicons.org/kali/white" height="40" title="Kali Linux"/>
-  <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="40" title="Wireshark"/>
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" title="MySQL"/>
-  <img src="https://cdn.simpleicons.org/owasp/ffffff" height="40" title="OWASP"/>
-  <img src="https://cdn.simpleicons.org/virustotal/394BA7" height="40" title="VirusTotal"/>
-  <!-- Metasploit, Nmap тощо часто відсутні в SimpleIcons, тому можна використати іконку з іншого джерела -->
-  <img src="https://raw.githubusercontent.com/ajinabraham/Mobile-Security-Framework-MobSF/master/static/img/metasploit.png" height="40" title="Metasploit"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-262626?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-CF202E?style=for-the-badge&logo=metasploit&logoColor=white" />
 </p>
 
 <h3 align="left">Languages and Tools for Manual testing:</h3>
 <p align="left">
-  <!-- Тут я прибрав excel та chromedp, бо їх немає в SkillIcons -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,selenium,figma" height="40" />
-  
-  <!-- Додаємо те, чого не було в SkillIcons окремо -->
-  <img src="https://cdn.simpleicons.org/jira/0052CC" height="40" title="Jira"/>
-  <img src="https://cdn.simpleicons.org/microsoft-excel/217346" height="40" title="Excel"/>
-  <img src="https://cdn.simpleicons.org/google-chrome/4285F4" height="40" title="Chrome DevTools"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </p>
