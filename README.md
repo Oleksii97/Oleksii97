@@ -1,4 +1,6 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Oleksii Kudriavtsev</h1>
+<h3 align="center">Manual QA / Penetration tester from Ukraine 🇺🇦</h3>
+
 
 <!--
 **Oleksii97/Oleksii97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
