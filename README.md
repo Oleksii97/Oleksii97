@@ -25,7 +25,7 @@
 <h3 align="left">Languages and Tools for Penetration Testing:</h3>
 <p align="left">
   <!-- SkillIcons (для загальновідомих інструментів, що підтримуються SkillIcons) -->
-  <img src="https://skillicons.dev/icons?i=python,phtp,git,github,vscode,docker,linux" height="40" alt="Penetration Testing Skills"/>
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,docker,linux" height="40" alt="Penetration Testing Skills"/>
   
   <!-- Додаткові іконки, які не підтримуються SkillIcons або виглядають краще з Simple Icons/прямих посилань -->
   <img src="https://cdn.simpleicons.org/kali/white" height="40" alt="Kali Linux" title="Kali Linux"/>
