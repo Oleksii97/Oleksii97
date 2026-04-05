@@ -23,16 +23,11 @@
 
 
 <h3 align="left">Languages and Tools for Penetration Testing:</h3>
+<img src="https://skillicons.dev/icons?i=python,kali,bash,git,github,vscode,docker" />
+</p>
+
 <p align="left">
-  <!-- skillicons -->
-  <p align="left">
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="40"/>
-  <img src="https://cdn.simpleicons.org/kali/557C94" height="40"/>
-  <img src="https://cdn.simpleicons.org/bash/4EAA25" height="40"/>
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40"/>
-  <img src="https://cdn.simpleicons.org/github/181717" height="40"/>
-  <img src="https://cdn.simpleicons.org/vscode/007ACC" height="40"/>
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40"/>
+  <!-- custom icons -->
   <img src="https://cdn.simpleicons.org/metasploit/2C2D72" height="40"/>
   <img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="40"/>
   <img src="https://cdn.simpleicons.org/nmap/00457C" height="40"/>
