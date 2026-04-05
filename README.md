@@ -37,10 +37,9 @@
   <img src="https://cdn.simpleicons.org/virustotal/FF6600" height="40"/>
 </p>
 
-<h3 align="left">Other Languages and Tools:</h3>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools for Manual testing:</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,jira,excel,postman,selenium,figma,chromedevtools" />
 </p>
