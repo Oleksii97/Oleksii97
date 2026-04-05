@@ -28,7 +28,7 @@
   <img src="https://skillicons.dev/icons?i=python,git,github,vscode,docker" height="40" alt="Penetration Testing Skills"/>
   
   <!-- Додаткові іконки, які не підтримуються SkillIcons або виглядають краще з Simple Icons/прямих посилань -->
-  <img src="https://cdn.simpleicons.org/kali/white" height="40" alt="kali" title="Kali Linux"/>
+  <img src="https://cdn.simpleicons.org/kali/white" height="40" alt="kali" title="kali"/>
   <img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="40"/> <!-- Пряме посилання на SVG з PortSwigger -->
   <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="40" alt="Wireshark" title="Wireshark"/>
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="MySQL" title="MySQL"/>
