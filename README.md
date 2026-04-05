@@ -21,10 +21,22 @@
 </a>
 </p>
 
-<h3 align="left">Languages and Tools for Penetration tester:</h3>
+<h3 align="left">Languages and Tools for Penetration Testing:</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=python,kali,bash,git,github,vscode,metasploit,burpsuite,nmap,wireshark,sql,sqlmap,winpeas,linpeas,shodan,virustotal,docker" />
+  <!-- Поддерживаемые skillicons -->
+  <img src="https://skillicons.dev/icons?i=python,kali,bash,git,github,vscode,docker" />
+  <!-- Инструменты через shields.io -->
+  <img src="https://img.shields.io/badge/Metasploit-2C2D72?style=for-the-badge&logo=metasploit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=nmap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLMap-239120?style=for-the-badge&logo=sql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WinPEAS-000000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinPEAS-000000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shodan-1A1A1A?style=for-the-badge&logo=shodan&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VirusTotal-FF6600?style=for-the-badge&logo=virustotal&logoColor=white"/>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
