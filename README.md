@@ -7,9 +7,8 @@
 -->
 
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on my team's project
 - 🌱 I’m currently learning automated testing / penetration testing.
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about penetration testing
 - 📫 How to reach me: kudriavtsevalek.pl97@gmail.com
 - ⚡ Fun fact: I’m a swimming instructor, and I bring the same precision and discipline from swimming into penetration testing.
