@@ -24,23 +24,35 @@
 
 <h3 align="left">Languages and Tools for Penetration Testing:</h3>
 <p align="left">
-  <!-- SkillIcons (Працюють ідеально) -->
-  <img src="https://skillicons.dev/icons?i=python,bash,git,github,vscode,docker,linux" height="40" />
+  <!-- SkillIcons (для загальновідомих інструментів, що підтримуються SkillIcons) -->
+  <img src="https://skillicons.dev/icons?i=python,phtp,git,github,vscode,docker,linux" height="40" alt="Penetration Testing Skills"/>
   
-  <!-- SimpleIcons (Виправлені назви) -->
-  <img src="https://cdn.simpleicons.org/kalilinux/262626" height="40" title="Kali Linux"/>
-  <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="40" title="Wireshark"/>
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" title="MySQL"/>
-  <img src="https://cdn.simpleicons.org/owasp/000000" height="40" title="OWASP"/>
-  <img src="https://cdn.simpleicons.org/virustotal/394BA7" height="40" title="VirusTotal"/>
+  <!-- Додаткові іконки, які не підтримуються SkillIcons або виглядають краще з Simple Icons/прямих посилань -->
+  <img src="https://cdn.simpleicons.org/kali/white" height="40" alt="Kali Linux" title="Kali Linux"/>
+  <img src="https://portswigger.net/burp/static/images/burp_suite_logo.svg" height="40" alt="Burp Suite" title="Burp Suite"/> <!-- Пряме посилання на SVG з PortSwigger -->
+  <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="40" alt="Wireshark" title="Wireshark"/>
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="MySQL" title="MySQL"/>
+  <img src="https://cdn.simpleicons.org/owasp/ffffff" height="40" alt="OWASP" title="OWASP"/> <!-- Виправлено slug на 'owasp' -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Nmap_logo.svg" height="40" alt="Nmap" title="Nmap"/> <!-- Пряме посилання на SVG Nmap -->
+  <img src="https://raw.githubusercontent.com/Rapid7/metasploit-framework/master/data/logo/metasploit-logo.png" height="40" alt="Metasploit" title="Metasploit"/> <!-- Пряме посилання на PNG Metasploit -->
+  <img src="https://cdn.simpleicons.org/virustotal/394BA7" height="40" alt="VirusTotal" title="VirusTotal"/>
+  
+  <!-- Для WinPEAS, LinPEAS, OSINT Framework, які не мають офіційних SVG/PNG у Simple Icons/Devicon: -->
+  <!-- Їхні іконки майже неможливо знайти у відкритих базах. -->
+  <!-- Рекомендується знайти PNG/SVG логотипи, завантажити їх у свій репозиторій (наприклад, у папку `assets/`) -->
+  <!-- і посилатися на них так: -->
+  <!-- <img src="https://github.com/ВАШ_КОРИСТУВАЧ/ВАШ_РЕПОЗИТОРІЙ/raw/main/assets/winpeas.png" height="40" alt="WinPEAS" title="WinPEAS"/> -->
+  <!-- <img src="https://github.com/ВАШ_КОРИСТУВАЧ/ВАШ_РЕПОЗИТОРІЙ/raw/main/assets/linpeas.png" height="40" alt="LinPEAS" title="LinPEAS"/> -->
+  <!-- <img src="https://github.com/ВАШ_КОРИСТУВАЧ/ВАШ_РЕПОЗИТОРІЙ/raw/main/assets/osintframework.png" height="40" alt="OSINT Framework" title="OSINT Framework"/> -->
 </p>
 
 <h3 align="left">Languages and Tools for Manual testing:</h3>
 <p align="left">
-  <!-- SkillIcons -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,selenium,figma,jira" height="40" />
+  <!-- SkillIcons (для загальновідомих інструментів, що підтримуються SkillIcons) -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,selenium,figma" height="40" alt="Manual Testing Skills"/>
   
-  <!-- SimpleIcons (Виправлені назви) -->
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="40" title="Excel"/>
-  <img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="40" title="Chrome DevTools"/>
+  <!-- Додаткові іконки, які не підтримуються SkillIcons, але є в Simple Icons -->
+  <img src="https://cdn.simpleicons.org/jira/0052CC" height="40" alt="Jira" title="Jira"/>
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="40" alt="Microsoft Excel" title="Microsoft Excel"/> <!-- Виправлено slug на 'microsoftexcel' -->
+  <img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="40" alt="Chrome DevTools" title="Chrome DevTools"/> <!-- Використано іконку Chrome -->
 </p>
