@@ -32,7 +32,7 @@
   <img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="40"/>
   <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="40"/>
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40"/>
-  <img src="https://cdn.simpleicons.org/nmap/4479A1" height="40"/>
+  <img src="https://cdn.simpleicons.org/winpeas/4479A1" height="40"/>
   <img src="https://cdn.simpleicons.org/virustotal/FF6600" height="40"/>
 </p>
 
