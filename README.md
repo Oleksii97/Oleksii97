@@ -34,7 +34,7 @@
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="MySQL" title="MySQL"/>
   <img src="https://cdn.simpleicons.org/owasp/ffffff" height="40" alt="OWASP" title="OWASP"/> <!-- Виправлено slug на 'owasp' -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Nmap_logo.svg" height="40" alt="Nmap" title="Nmap"/> <!-- Пряме посилання на SVG Nmap -->
-  <img src="https://raw.githubusercontent.com/Rapid7/metasploit-framework/master/data/logo/metasploit-logo.png" height="40" alt="Metasploit" title="Metasploit"/> <!-- Пряме посилання на PNG Metasploit -->
+  <img src="https://cdn.simpleicons.org/metasploit/2C2D72" height="40"/> <!-- Пряме посилання на PNG Metasploit -->
   <img src="https://cdn.simpleicons.org/virustotal/394BA7" height="40" alt="VirusTotal" title="VirusTotal"/>
   
   <!-- Для WinPEAS, LinPEAS, OSINT Framework, які не мають офіційних SVG/PNG у Simple Icons/Devicon: -->
