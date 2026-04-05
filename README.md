@@ -50,6 +50,5 @@
   
   <!-- Додаткові іконки, які не підтримуються SkillIcons, але є в Simple Icons -->
   <img src="https://cdn.simpleicons.org/jira/0052CC" height="40" alt="Jira" title="Jira"/>
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="40" alt="Microsoft Excel" title="Microsoft Excel"/> <!-- Виправлено slug на 'microsoftexcel' -->
   <img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="40" alt="Chrome DevTools" title="Chrome DevTools"/> <!-- Використано іконку Chrome -->
 </p>
