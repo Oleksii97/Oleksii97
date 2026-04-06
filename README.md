@@ -25,7 +25,7 @@
 <p align="left">
   <!-- SkillIcons (для загальновідомих інструментів, що підтримуються SkillIcons) -->
   
-  <img src="https://cdn.simpleicons.org/docker/1679A7" height="60" alt="docker" title="docker"/>
+  <img src="https://cdn.simpleicons.org/docker/1679A6" height="60" alt="docker" title="docker"/>
   <img src="https://cdn.simpleicons.org/python/1679A7" height="60" alt="python" title="python"/>
   <img src="https://cdn.simpleicons.org/github/1679A7" height="60" alt="github" title="github"/>
   <img src="https://cdn.simpleicons.org/kalilinux/1679A7" height="60" alt="kali" title="kali linux"/>
