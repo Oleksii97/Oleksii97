@@ -35,7 +35,7 @@
   <img src="https://nmap.org/images/nmap-logo-256x256.png" height="60" title="NMAP"/>  
   <img src="https://cdn.simpleicons.org/metasploit/2C2D72" height="60" title="Metasploit"/> <!-- Пряме посилання на PNG Metasploit -->
   <img src="https://cdn.simpleicons.org/virustotal/394BA7" height="60" alt="VirusTotal" title="VirusTotal"/>
-   <img src="https://cdn.simpleicons.org/go" width="60" title="Gobuster"/>
+  <img src="https://cdn.simpleicons.org/go" width="60" title="Gobuster"/>
                                               
 </p>
 
@@ -46,5 +46,6 @@
   
   <!-- Додаткові іконки, які не підтримуються SkillIcons, але є в Simple Icons -->
   <img src="https://cdn.simpleicons.org/jira/0052CC" height="40" alt="Jira" title="Jira"/>
-  <img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="40" alt="Chrome DevTools" title="Chrome DevTools"/> <!-- Використано іконку Chrome -->
+  <img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="40" alt="Chrome DevTools" title="Chrome DevTools"/> 
+  <img src="https://cdn.simpleicons.org/jmeter" width="60" title="jmeter"/><!-- Використано іконку Chrome -->
 </p>
