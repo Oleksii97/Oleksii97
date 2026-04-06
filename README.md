@@ -51,6 +51,6 @@
   <img src="https://cdn.simpleicons.org/github/394BA7" height="60" alt="GitHub" title="GitHub"/>
   <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/128/visualstudiocode-icon.png" width="60" title="VS Code"/>
   <img src="https://cdn.simpleicons.org/testrail/394BA7" height="60" alt="TestRail" title="TestRail"/>
-  <img src="https://cdn.simpleicons.org/cloudecode/394BA7" height="60" alt="TestRail" title="TestRail"/>
+  <object type="image/svg+xml"  data="https://cdn.simpleicons.org/cloudecode/394BA7"  height="60" title="Cloude Code">
 
 </p>
