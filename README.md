@@ -32,7 +32,7 @@
   <img src="https://nmap.org/images/nmap-logo-256x256.png" height="40" title="NMAP"/>  
   <img src="https://cdn.simpleicons.org/metasploit/2C2D72" height="40" title="Metasploit"/> <!-- Пряме посилання на PNG Metasploit -->
   <img src="https://cdn.simpleicons.org/virustotal/394BA7" height="40" alt="VirusTotal" title="VirusTotal"/>
-   <img src="https://cdn.simpleicons.org/go" width="60" title="Gobuster"/><br>
+   <img src="https://cdn.simpleicons.org/go" width="50" title="Gobuster"/><br>
                                               
 </p>
 
