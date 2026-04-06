@@ -29,7 +29,7 @@
   <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="40" alt="Wireshark" title="Wireshark"/>
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="MySQL" title="MySQL"/>
   <img src="https://cdn.simpleicons.org/owasp/ffffff" height="40" alt="OWASP" title="OWASP"/> <!-- Виправлено slug на 'owasp' -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Nmap_logo.svg" height="40" alt="Nmap" title="Nmap"/> <!-- Пряме посилання на SVG Nmap -->
+  <img src="https://cdn.simpleicons.org/nmap" width="20"/> <b>Nmap</b> &nbsp; 
   <img src="https://cdn.simpleicons.org/metasploit/2C2D72" height="40"/> <!-- Пряме посилання на PNG Metasploit -->
   <img src="https://cdn.simpleicons.org/virustotal/394BA7" height="40" alt="VirusTotal" title="VirusTotal"/>
 </p>
