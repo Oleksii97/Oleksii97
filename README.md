@@ -32,20 +32,12 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Nmap_logo.svg" height="40" alt="Nmap" title="Nmap"/> <!-- Пряме посилання на SVG Nmap -->
   <img src="https://cdn.simpleicons.org/metasploit/2C2D72" height="40"/> <!-- Пряме посилання на PNG Metasploit -->
   <img src="https://cdn.simpleicons.org/virustotal/394BA7" height="40" alt="VirusTotal" title="VirusTotal"/>
-  
-  <!-- Для WinPEAS, LinPEAS, OSINT Framework, які не мають офіційних SVG/PNG у Simple Icons/Devicon: -->
-  <!-- Їхні іконки майже неможливо знайти у відкритих базах. -->
-  <!-- Рекомендується знайти PNG/SVG логотипи, завантажити їх у свій репозиторій (наприклад, у папку `assets/`) -->
-  <!-- і посилатися на них так: -->
-  <!-- <img src="https://github.com/ВАШ_КОРИСТУВАЧ/ВАШ_РЕПОЗИТОРІЙ/raw/main/assets/winpeas.png" height="40" alt="WinPEAS" title="WinPEAS"/> -->
-  <!-- <img src="https://github.com/ВАШ_КОРИСТУВАЧ/ВАШ_РЕПОЗИТОРІЙ/raw/main/assets/linpeas.png" height="40" alt="LinPEAS" title="LinPEAS"/> -->
-  <!-- <img src="https://github.com/ВАШ_КОРИСТУВАЧ/ВАШ_РЕПОЗИТОРІЙ/raw/main/assets/osintframework.png" height="40" alt="OSINT Framework" title="OSINT Framework"/> -->
 </p>
 
 <h3 align="left">Languages and Tools for Manual testing:</h3>
 <p align="left">
   <!-- SkillIcons (для загальновідомих інструментів, що підтримуються SkillIcons) -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,selenium,figma,jmeter" height="40" alt="Manual Testing Skills"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,jmeter" height="40" alt="Manual Testing Skills"/>
   
   <!-- Додаткові іконки, які не підтримуються SkillIcons, але є в Simple Icons -->
   <img src="https://cdn.simpleicons.org/jira/0052CC" height="40" alt="Jira" title="Jira"/>
