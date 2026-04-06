@@ -42,8 +42,8 @@
 <h3 align="left">Languages and Tools for Manual testing:</h3>
 <p align="left">
  
-  <img src="https://cdn.simpleicons.org/jira/0052CC" height="40" alt="Jira" title="Jira"/>
-  <img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="40" alt="Chrome DevTools" title="Chrome DevTools"/> 
+  <img src="https://cdn.simpleicons.org/jira/0052CC" height="60" alt="Jira" title="Jira"/>
+  <img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="60" alt="Chrome DevTools" title="Chrome DevTools"/> 
   <img src="https://cdn.simpleicons.org/apachejmeter" width="60" title="Apache JMeter"/>
   <img src="https://cdn.simpleicons.org/postman" width="60" title="Postman"/>
   <img src="https://cdn.simpleicons.org/figma" width="60" title="Figma"/>
