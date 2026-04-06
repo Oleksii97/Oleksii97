@@ -24,7 +24,7 @@
 <h3 align="left">Languages and Tools for Penetration Testing:</h3>
 <p align="left">
   <!-- SkillIcons (для загальновідомих інструментів, що підтримуються SkillIcons) -->
-  <img src="https://skillicons.dev/icons?i=python,github,docker,kali" height="60" alt="Penetration Testing Skills"/>
+  <img src="https://skillicons.dev/icons?i=python,github,docker,kali" height="70" alt="Penetration Testing Skills"/>
   
   <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="60" alt="Wireshark" title="Wireshark"/>
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="60" alt="MySQL" title="MySQL"/>
