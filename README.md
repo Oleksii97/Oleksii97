@@ -27,7 +27,7 @@
   
  <img src="https://cdn.simpleicons.org/docker" height="60" alt="docker" title="Docker"/>
   <img src="https://cdn.simpleicons.org/python" height="60" alt="python" title="Python"/>
-  <img src="https://cdn.simpleicons.org/github" height="60" alt="github" title="GitHub"/>
+  <img src="https://cdn.simpleicons.org/github/394BA7" height="60" alt="GitHub" title="GitHub"/>
   <img src="https://cdn.simpleicons.org/kalilinux" height="60" alt="kali" title="Kali Linux"/>
   <img src="https://cdn.simpleicons.org/wireshark" height="60" alt="wireshark" title="Wireshark"/>
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="60" alt="MySQL" title="MySQL"/>
