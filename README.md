@@ -32,7 +32,7 @@
   <img src="https://nmap.org/images/nmap-logo-256x256.png" height="40"/>  
   <img src="https://cdn.simpleicons.org/metasploit/2C2D72" height="40"/> <!-- Пряме посилання на PNG Metasploit -->
   <img src="https://cdn.simpleicons.org/virustotal/394BA7" height="40" alt="VirusTotal" title="VirusTotal"/>
-  <img src="https://cdn.simpleicons.org/go" width="20"/> Gobuster
+  <img src="https://cdn.simpleicons.org/go" width="40"/> Gobuster
 </p>
 
 <h3 align="left">Languages and Tools for Manual testing:</h3>
