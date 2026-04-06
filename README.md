@@ -32,7 +32,7 @@
   <img src="https://nmap.org/images/nmap-logo-256x256.png" height="40"/>  
   <img src="https://cdn.simpleicons.org/metasploit/2C2D72" height="40"/> <!-- Пряме посилання на PNG Metasploit -->
   <img src="https://cdn.simpleicons.org/virustotal/394BA7" height="40" alt="VirusTotal" title="VirusTotal"/>
-  <img src="peas.png"/> LinPEAS (Linux)
+  <img src="https://github.com/carlospolop/PEASS-ng/blob/master/images/peas.png?raw=true" width="20"/> LinPEAS
 </p>
 
 <h3 align="left">Languages and Tools for Manual testing:</h3>
