@@ -41,13 +41,12 @@
 
 <h3 align="left">Languages and Tools for Manual testing:</h3>
 <p align="left">
-  <!-- SkillIcons (для загальновідомих інструментів, що підтримуються SkillIcons) -->
-  <img src="https://skillicons.dev/icons?i=git,vscode,postman,figma" height="40" alt="Manual Testing Skills"/>
-  
-  <!-- Додаткові іконки, які не підтримуються SkillIcons, але є в Simple Icons -->
+ 
   <img src="https://cdn.simpleicons.org/jira/0052CC" height="40" alt="Jira" title="Jira"/>
   <img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="40" alt="Chrome DevTools" title="Chrome DevTools"/> 
   <img src="https://cdn.simpleicons.org/apachejmeter" width="60" title="Apache JMeter"/>
+  <img src="https://cdn.simpleicons.org/postman" width="60" title="Postman"/>
+  <img src="https://cdn.simpleicons.org/figma" width="60" title="Figma"/>
   <img src="https://cdn.simpleicons.org/github/394BA7" height="60" alt="GitHub" title="GitHub"/>
   <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/128/visualstudiocode-icon.png" width="60" title="VS Code"/>
 </p>
