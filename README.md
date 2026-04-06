@@ -25,17 +25,17 @@
 <p align="left">
   <!-- SkillIcons (для загальновідомих інструментів, що підтримуються SkillIcons) -->
   
-  <img src="https://cdn.simpleicons.org/docker/1679A6" height="60" alt="docker" title="docker"/>
-  <img src="https://cdn.simpleicons.org/python/1679A7" height="60" alt="python" title="python"/>
-  <img src="https://cdn.simpleicons.org/github/1679A7" height="60" alt="github" title="github"/>
-  <img src="https://cdn.simpleicons.org/kalilinux/1679A7" height="60" alt="kali" title="kali linux"/>
-  <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="60" alt="Wireshark" title="Wireshark"/>
+ <img src="https://cdn.simpleicons.org/docker" height="60" alt="docker" title="Docker"/>
+  <img src="https://cdn.simpleicons.org/python" height="60" alt="python" title="Python"/>
+  <img src="https://cdn.simpleicons.org/github" height="60" alt="github" title="GitHub"/>
+  <img src="https://cdn.simpleicons.org/kalilinux" height="60" alt="kali" title="Kali Linux"/>
+  <img src="https://cdn.simpleicons.org/wireshark" height="60" alt="wireshark" title="Wireshark"/>
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="60" alt="MySQL" title="MySQL"/>
   <img src="https://cdn.simpleicons.org/owasp/ffffff" height="60" alt="OWASP" title="OWASP"/> <!-- Виправлено slug на 'owasp' -->
   <img src="https://nmap.org/images/nmap-logo-256x256.png" height="60" title="NMAP"/>  
   <img src="https://cdn.simpleicons.org/metasploit/2C2D72" height="60" title="Metasploit"/> <!-- Пряме посилання на PNG Metasploit -->
   <img src="https://cdn.simpleicons.org/virustotal/394BA7" height="60" alt="VirusTotal" title="VirusTotal"/>
-   <img src="https://cdn.simpleicons.org/go" width="60" title="Gobuster"/><br>
+   <img src="https://cdn.simpleicons.org/go" width="60" title="Gobuster"/>
                                               
 </p>
 
