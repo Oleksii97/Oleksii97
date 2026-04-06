@@ -51,6 +51,6 @@
   <img src="https://cdn.simpleicons.org/github/394BA7" height="60" alt="GitHub" title="GitHub"/>
   <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/128/visualstudiocode-icon.png" width="60" title="VS Code"/>
   <img src="https://cdn.simpleicons.org/testrail/394BA7" height="60" alt="TestRail" title="TestRail"/>
-  <img src="https://cdn.simpleicons.org/openai/000000" height="60" alt="OpenAI / ChatGPT" title="OpenAI / ChatGPT">
+  <img src="https://icon-icons.com/icons2/264985/PNG/512/chatgpt_logo_openai_gpt_ia_line_icon_264985.png" height="60" alt="ChatGPT" title="ChatGPT">
   
 </p>
