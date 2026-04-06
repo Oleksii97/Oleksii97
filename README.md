@@ -49,5 +49,5 @@
   <img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="40" alt="Chrome DevTools" title="Chrome DevTools"/> 
   <img src="https://cdn.simpleicons.org/apachejmeter" width="60" title="Apache JMeter"/>
   <img src="https://cdn.simpleicons.org/github/394BA7" height="60" alt="GitHub" title="GitHub"/>
-  <img src="https://cdn.simpleicons.org/vscode" height="60" alt="VSCode" title="VSCode"/>
+  <img src="https://cdn.simpleicons.org/visualstudiocode" height="60" alt="VS Code" title="VS Code"/>
 </p>
