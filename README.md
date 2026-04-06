@@ -26,7 +26,7 @@
   <!-- SkillIcons (для загальновідомих інструментів, що підтримуються SkillIcons) -->
   <img src="https://skillicons.dev/icons?i=python,github,docker" height="70" alt="Penetration Testing Skills"/>
 
-  <img src="https://cdn.simpleicons.org/kali/1679A7" height="60" alt="kali" title="kali linux"/>
+  <img src="https://cdn.simpleicons.org/kalilinux/1679A7" height="60" alt="kali" title="kali linux"/>
   <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="60" alt="Wireshark" title="Wireshark"/>
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="60" alt="MySQL" title="MySQL"/>
   <img src="https://cdn.simpleicons.org/owasp/ffffff" height="60" alt="OWASP" title="OWASP"/> <!-- Виправлено slug на 'owasp' -->
