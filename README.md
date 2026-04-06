@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/oleksii-kudriavtsev" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" />
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="60" />
 </a>
 </p>
 
