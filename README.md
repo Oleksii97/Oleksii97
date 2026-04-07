@@ -37,7 +37,7 @@
   <img src="https://cdn.simpleicons.org/virustotal/394BA7" height="60" alt="VirusTotal" title="VirusTotal"/>
   <img src="https://cdn.simpleicons.org/go" width="60" title="Gobuster"/>
   <img src="https://raw.githubusercontent.com/Oleksii97/Oleksii97/main/images/linpeas.png" height="90" alt="LinPEAS" title="LinPEAS" style="margin-top: -20px;">
-  <img src="https://raw.githubusercontent.com/Oleksii97/Oleksii97/main/images/winpeas.png" height="90" alt="WinPEAS" title="WinPEAS" height="10">
+  <img src="https://raw.githubusercontent.com/Oleksii97/Oleksii97/main/images/winpeas.png" height="90" alt="WinPEAS" title="WinPEAS" height="0.6">
                                               
 </p>
 
