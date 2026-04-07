@@ -36,6 +36,7 @@
   <img src="https://cdn.simpleicons.org/metasploit/2C2D72" height="60" title="Metasploit"/> <!-- Пряме посилання на PNG Metasploit -->
   <img src="https://cdn.simpleicons.org/virustotal/394BA7" height="60" alt="VirusTotal" title="VirusTotal"/>
   <img src="https://cdn.simpleicons.org/go" width="60" title="Gobuster"/>
+  <img src="https://github.com/Oleksii97/Oleksii97/images/linpeas.png">
   
                                               
 </p>
