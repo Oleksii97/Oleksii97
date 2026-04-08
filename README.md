@@ -22,18 +22,18 @@
 
 
 <h3 align="left">Languages and Tools for Penetration Testing:</h3>
-<p align="left"  >
+<p align="center"  >
   <!-- SkillIcons (для загальновідомих інструментів, що підтримуються SkillIcons) -->
   
- <img src="https://cdn.simpleicons.org/docker" height="60" alt="docker" title="Docker"/>
+  <img src="https://cdn.simpleicons.org/docker" height="60" alt="docker" title="Docker"/>
   <img src="https://cdn.simpleicons.org/python" height="60" alt="python" title="Python"/>
   <img src="https://cdn.simpleicons.org/github/394BA7" height="60" alt="GitHub" title="GitHub"/>
   <img src="https://cdn.simpleicons.org/kalilinux" height="60" alt="kali" title="Kali Linux"/>
   <img src="https://cdn.simpleicons.org/wireshark" height="60" alt="wireshark" title="Wireshark"/>
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="60" alt="MySQL" title="MySQL"/>
-  <img src="https://cdn.simpleicons.org/owasp/ffffff" height="60" alt="OWASP" title="OWASP"/> <!-- Виправлено slug на 'owasp' -->
+  <img src="https://cdn.simpleicons.org/owasp/ffffff" height="60" alt="OWASP" title="OWASP"/> 
   <img src="https://nmap.org/images/nmap-logo-256x256.png" height="60" title="NMAP"/>  
-  <img src="https://cdn.simpleicons.org/metasploit/2C2D72" height="60" title="Metasploit"/> <!-- Пряме посилання на PNG Metasploit -->
+  <img src="https://cdn.simpleicons.org/metasploit/2C2D72" height="60" title="Metasploit"/> 
   <img src="https://cdn.simpleicons.org/virustotal/394BA7" height="60" alt="VirusTotal" title="VirusTotal"/>
    <!--<img src="https://cdn.simpleicons.org/go" width="60" title="Gobuster"/> -->
   <img src="https://raw.githubusercontent.com/Oleksii97/Oleksii97/main/images/linpeas.png"  alt="LinPEAS" title="LinPEAS" width="45">
@@ -47,7 +47,7 @@
 </p>
 
 <h3 align="left">Languages and Tools for Manual testing:</h3>
-<p align="left">
+<p align="center">
  
   <img src="https://cdn.simpleicons.org/jira/0052CC" height="60" alt="Jira" title="Jira"/>
   <img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="60" alt="Chrome DevTools" title="Chrome DevTools"/> 
