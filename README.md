@@ -42,7 +42,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Oleksii97/Oleksii97/main/images/sqlmap.png"  alt="SQLMap" title="SQLMap" width="45">
+  <img src="https://raw.githubusercontent.com/Oleksii97/Oleksii97/main/images/sqlmap.png"  alt="SQLMap" title="SQLMap" width="70">
 </p>
 
 <h3 align="left">Languages and Tools for Manual testing:</h3>
