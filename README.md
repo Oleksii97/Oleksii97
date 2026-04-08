@@ -58,7 +58,6 @@
   <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/128/visualstudiocode-icon.png" width="60" title="VS Code"/>
   <img src="https://cdn.simpleicons.org/testrail/394BA7" height="60" alt="TestRail" title="TestRail"/>
   <img src="https://cdn.simpleicons.org/git" width="60" title="Git"/>
-  <img src="https://cdn.simpleicons.org/github/394BA7" height="60" alt="GitHub" title="GitHub"/>
 
   
 </p>
