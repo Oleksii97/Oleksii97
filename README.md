@@ -43,6 +43,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Oleksii97/Oleksii97/main/images/sqlmap.png"  alt="SQLMap" title="SQLMap" width="110">
+  <img src="https://cdn.simpleicons.org/git" width="60" title="Git"/>
 </p>
 
 <h3 align="left">Languages and Tools for Manual testing:</h3>
