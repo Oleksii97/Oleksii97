@@ -50,7 +50,7 @@
 <p align="center">
  
   <img src="https://cdn.simpleicons.org/jira/0052CC" height="60" alt="Jira" title="Jira"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://cdn.simpleicons.org/javascript/4285F4" height="60" alt="JavaScript" title="JavaScript"/> 
   <img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="60" alt="Chrome DevTools" title="Chrome DevTools"/> 
   <img src="https://cdn.simpleicons.org/apachejmeter" width="60" title="Apache JMeter"/>
   <img src="https://cdn.simpleicons.org/postman" width="60" title="Postman"/>
