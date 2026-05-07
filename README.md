@@ -46,7 +46,7 @@
   <img src="https://cdn.simpleicons.org/git" width="60" title="Git"/>
 </p>
 
-<h3 align="left">Languages and Tools for Manual testing:</h3>
+<h3 align="left">Languages and Tools for Manual and Automation testing:</h3>
 <p align="center">
  
   <img src="https://cdn.simpleicons.org/jira/0052CC" height="60" alt="Jira" title="Jira"/>
