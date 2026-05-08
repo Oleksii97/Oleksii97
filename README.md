@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oleksii Kudriavtsev</h1>
-<h3 align="center">Manual QA / Penetration tester from Ukraine 🇺🇦</h3>
+<h3 align="center">Manual and Automation QA / Penetration tester from Ukraine 🇺🇦</h3>
 
 
 <!--
